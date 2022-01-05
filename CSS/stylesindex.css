@@ -1,0 +1,86 @@
+*{
+    text-align: center;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+    margin: 5px;
+}
+
+h1{
+    font-size: 30px;
+    margin-top: 0px;
+    font-family: sans-serif;
+}
+
+h2{
+    font-size: 24px;
+    margin-top: 0px;
+    font-family: sans-serif;
+}
+
+.email{
+    width: 450px;
+    height: 30px;
+    background: #D3DEDC;
+    border: 2px solid black;
+    margin-top: 2px;
+    font-style: italic;
+    font-size: 18px;
+    border-radius: 1cm;
+    
+}
+
+.password{
+    width: 460px;
+    height: 30px;
+    background: #D3DEDC;
+    border: 2px solid black;
+    margin-top: 2px;
+    font-style: italic;
+    font-size: 18px;
+    border-radius: 1cm;
+}
+
+p{
+    font-size: 18px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+button{
+    margin-top: 10px;
+    width: 150px;
+    height: 35px;
+    font-size: 20px;
+    background: #00355a;
+    color:white;
+    border-radius: 1cm;
+    
+    
+}
+
+footer{
+    margin-top: 30px;
+}
+
+.datos input[type="email"]:focus,
+.datos input[type="password"]:focus{
+    width: 560px;
+    
+}
+
+.olvidaste{
+    font-size: 20px;
+    color: darkgrey;
+    text-decoration: none;
+    
+}
+
+.olvidaste:hover{
+    color: red;
+}
+
+
+
