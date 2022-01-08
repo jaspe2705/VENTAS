@@ -157,7 +157,11 @@
 
 .contact-info{
     background: #FBF3E4;
+    
+    
 }
+
+
 
 .contact-info h4,
 .contact-info ul,
@@ -179,6 +183,8 @@
     width: 40ex;
     height: 40ex;
 }
+
+
 
 /*Large Screen*/
 @media (min-width: 700px){
